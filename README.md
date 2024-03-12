@@ -13,6 +13,11 @@ This GitHub repository is served as the project's web presence with pointers to 
 * "Ingress" is a trademark of Niantic, Inc.
 * While this project's name is indeed inspired by [Outgress](https://outgress.com/), this project is not affiliated by it.
 
+## Sub-projects
+
+* [proof-of-presences](https://github.com/OutgressOfTrust/proof-of-presences)  
+  A place to voluntarily file a Ingress player's **own** proof of presences(PoPs) during the gameplay.
+
 ## Licensing
 
 Unless otherwise noted(individual file's header/[REUSE DEP5](.reuse/dep5)), this product is licensed under [the 4.0 International version of the Creative Commons Attribution-NoDerivs(BY-ND) License](https://creativecommons.org/licenses/by-nd/4.0/), or any of its recent versions you would prefer.
