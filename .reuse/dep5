@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: The #OutgressOfTrust Project
+Upstream-Contact: Issues · OutgressOfTrust/OutgressOfTrust <https://github.com/OutgressOfTrust/OutgressOfTrust/issues>
+Source: https://github.com/OutgressOfTrust/OutgressOfTrust
+
+Files:
+ *README.md
+ */README.md
+Copyright: 2024 Ｖ字龍(Vdragon) <Vdragon.Taiwan@gmail.com>
+License: CC-BY-ND-4.0
