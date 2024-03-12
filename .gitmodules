@@ -12,3 +12,7 @@
 	path = proof-of-presences
 	url = https://github.com/OutgressOfTrust/proof-of-presences.git
 	ignore = dirty
+[submodule "abuse-report-templates"]
+	path = abuse-report-templates
+	url = https://github.com/OutgressOfTrust/abuse-report-templates.git
+	ignore = dirty

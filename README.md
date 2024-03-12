@@ -17,6 +17,8 @@ This GitHub repository is served as the project's web presence with pointers to 
 
 * [proof-of-presences](https://github.com/OutgressOfTrust/proof-of-presences)  
   A place to voluntarily file a Ingress player's **own** proof of presences(PoPs) during the gameplay.
+* [abuse-report-templates](https://github.com/OutgressOfTrust/abuse-report-templates)  
+  Handy templates to create a Ingress abuse report from.
 
 ## Licensing
 
